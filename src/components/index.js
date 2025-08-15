@@ -1,0 +1,10 @@
+export { default as Footer } from './Footer';
+export { default as Navbar } from './Navbar';
+export { default as Hero } from './Hero';
+export { default as Services } from './Services';
+export { default as Product } from './Product';
+export { default as About } from './About';
+export { default as Values } from './Values';
+export { default as ContactForm } from './ContactForm';
+export { default as Testimonials } from './Testimonials';
+export { default as WorkSteps } from './WorkSteps';
